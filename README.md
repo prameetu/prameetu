@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! Myself Prameet 👋
 
 <!--
 **prameetu/prameetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with Me 📫 ~ [![Twitter Badge](https://img.shields.io/badge/-@PrameetUpadhyay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrameetUpadhyay)](https://twitter.com/PrameetUpadhyay)  [![Linkedin Badge](https://img.shields.io/badge/-@Prameet_Upadhyay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prameet-upadhyay-3a08991b8/)](https://www.linkedin.com/in/prameet-upadhyay-3a08991b8/)   [![Gmail Badge](https://img.shields.io/badge/-prameetu20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prameetu20@gmail.com)](mailto:prameetu20@gmail.com)
